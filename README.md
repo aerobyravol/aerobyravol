@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aerobyravol
+- 👀 I’m interested in general coding, learning and discovering new stuff and mainly create some tiny tools that help me or bring me some joy
+- 🌱 I’m currently learning Git, since I was used to subversion so far
+- 📫 sebastien.robyr+git@gmail.com
